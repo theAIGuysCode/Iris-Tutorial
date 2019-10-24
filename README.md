@@ -1,5 +1,5 @@
 # Iris-Tutorial
-Code for tutorial video of walk through of Iris dataset using scikit learn and Jupyter notebook.
+Code for tutorial videos of walk through of the famous Iris dataset using scikit learn and Jupyter notebook.
 
 Follow along with the youtube video tutorials! 
 
